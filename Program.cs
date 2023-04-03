@@ -28,7 +28,7 @@ namespace Sorts
             }
             for (int i = 1; i < length; i++)
             {
-                Swap(temp, i - 1, rand.Next(i - 1, length));
+                Swap(temp, i - 1, rand.Next(i, length));
             }
 
             return temp;
