@@ -3,9 +3,9 @@ using SortingExtras;
 
 namespace Sorts
 {
-	public class Sorts
-	{
-        public int[] SelectionSort(int[] array)
+    public class Sorts
+    {
+        public int[] SelectionSort(int[] array) 
         {
             for (int i = 0; i < array.Length; i++)
             {
