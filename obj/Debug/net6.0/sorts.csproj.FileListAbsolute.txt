@@ -1,0 +1,15 @@
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.csproj.AssemblyReference.cache
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.AssemblyInfoInputs.cache
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.AssemblyInfo.cs
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.csproj.CoreCompileInputs.cache
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\bin\Debug\net6.0\sorts.exe
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\bin\Debug\net6.0\sorts.deps.json
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\bin\Debug\net6.0\sorts.runtimeconfig.json
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\bin\Debug\net6.0\sorts.dll
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\bin\Debug\net6.0\ref\sorts.dll
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\bin\Debug\net6.0\sorts.pdb
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.dll
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\ref\sorts.dll
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.pdb
+C:\Users\Airer Undrscr Enythy\source\repos\sorts\obj\Debug\net6.0\sorts.genruntimeconfig.cache
