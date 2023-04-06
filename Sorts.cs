@@ -14,13 +14,13 @@ namespace Sorts
 
         public int[] SelectionSort(int[] array) 
         {
-            for (int i = 0; i < array.Length; i++)
+            for(int i = 0; i < array.Length; i++)
             {
                 int lowestindex = i;
 
-                for (int j = i + 1; j < array.Length; j++)
+                for(int j = i + 1; j < array.Length; j++)
                 {
-                    if (array[j] < array[lowestindex])
+                    if(array[j] < array[lowestindex])
                     {
                         lowestindex = j;
                     }
@@ -41,13 +41,13 @@ namespace Sorts
 
             while(left <= right)
             {
-                for (int i = left; i <= right; i++)
+                for(int i = left; i <= right; i++)
                 {
                     if(array[i] > array[highestindex])
                     {
                         highestindex = i;
                     }
-                    if (array[i] < array[lowestindex])
+                    if(array[i] < array[lowestindex])
                     {
                         lowestindex = i;
                     }
@@ -66,6 +66,25 @@ namespace Sorts
 
                 lowestindex = left;
                 highestindex = right;
+            }
+
+            return array;
+        }
+
+        public int[] BubbleSort(int[] array)
+        {
+            for(int i = array.Length - 1; i > 0; i--)
+            {
+                bool sorted = true;
+                for(int j = 0; j < i; j++)
+                {
+                    if(array[j] > array[j + 1])
+                    {
+                        sorted = false;
+                        Swap(array, j, j + 1);
+                    }
+                }
+                if(sorted) { break; }
             }
 
             return array;
