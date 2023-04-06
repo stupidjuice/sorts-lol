@@ -11,7 +11,7 @@ namespace Sorts
             int[] randomArray = SortingExtensions.CreateRandomArray(length);
 
             Sorts sorts = new Sorts();
-            SortingExtensions.PrintArray(sorts.SelectionSort(randomArray));
+            SortingExtensions.PrintArray(sorts.DoubleSelectionSort(randomArray));
         }
     }
 }
